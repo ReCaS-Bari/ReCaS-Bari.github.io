@@ -1,13 +1,11 @@
-# Welcome to ReCaS-Bari
-
-## EGI Federated Cloud
+# EGI Federated Cloud
 
 ReCaS-Bari cloud site is fully integrated in the EGI Federated Cloud. 
 The user access is regulated by SLAs/OLAs.
 
 If your virtual organization has a valid SLA with our site, you will be able to access our Openstack cloud services as follows.
 
-### Dashboard access
+## Dashboard access
 
 Point your browser to [http://cloud.recas.ba.infn.it](http://cloud.recas.ba.infn.it)
 
@@ -19,7 +17,7 @@ Point your browser to [http://cloud.recas.ba.infn.it](http://cloud.recas.ba.infn
 
 You will be redirected to your organization project.
 
-### CLI access
+## CLI access
 
 The OpenStack Client has built-in support for using OpenID Connect Access Tokens to authenticate. 
 
@@ -54,6 +52,6 @@ $ openstack --os-auth-url https://cloud.recas.ba.infn.it:5000/v3 --os-auth-type 
 +---------+----------------------------------+
 ```
 
-## Support or Contact
+# Support or Contact
 
 Check out our [site](https://www.recas-bari.it/index.php/en/) or [contact support](mailto:support@recas-bari.it) 
