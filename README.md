@@ -52,6 +52,9 @@ $ openstack --os-auth-url https://cloud.recas.ba.infn.it:5000/v3 --os-auth-type 
 +---------+----------------------------------+
 ```
 
-# Support or Contact
+## Report issues
 
-Check out our [site](https://www.recas-bari.it/index.php/en/) or [contact support](mailto:support@recas-bari.it) 
+For any problem you can open a ticket on [GGUS](https://ggus.eu/). 
+
+# Contact
+For further information check out our [site](https://www.recas-bari.it/index.php/en/) or [contact support](mailto:support@recas-bari.it). 
