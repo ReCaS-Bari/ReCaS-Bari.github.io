@@ -7,7 +7,7 @@ The user access is regulated by SLAs/OLAs.
 
 If your virtual organization has a valid SLA with our site, you will be able to access our Openstack cloud services as follows.
 
-## Dashboard access
+### Dashboard access
 
 Point your browser to [http://cloud.recas.ba.infn.it](http://cloud.recas.ba.infn.it)
 
