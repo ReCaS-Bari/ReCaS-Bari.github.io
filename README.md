@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## Welcome to ReCaS-Bari
 
-You can use the [editor on GitHub](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### EGI Federated Cloud
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+ReCaS-Bari cloud site is fully integrated in the EGI Federated Cloud. 
+The user access is regulated by SLAs/OLAs.
+If your virtual organization has a valid SLA with our site, you will be able to login at
 
-### Markdown
+http://cloud.recas.ba.infn.it
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. choose the OpenID Connect authentication method 
 
-```markdown
-Syntax highlighted code block
+![OpenID Connect Authentication](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/blob/master/images/choose_auth_method.png)
 
-# Header 1
-## Header 2
-### Header 3
+2. select the EGI-Checkin IdP
 
-- Bulleted
-- List
+![EGI AAI IdP](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/blob/master/images/select_idp.png)
 
-1. Numbered
-2. List
+You will be redirected to your organization project.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Check out our [site](https://www.recas-bari.it/index.php/en/) or [contact support](mailto:support@recas-bari.it) 
