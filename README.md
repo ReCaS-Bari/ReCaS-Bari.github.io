@@ -10,11 +10,11 @@ If your virtual organization has a valid SLA with our site, you will be able to 
 
 1. choose the OpenID Connect authentication method 
 
-![OpenID Connect Authentication](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/blob/master/images/choose_auth_method.png)
+![OpenID Connect Authentication](/images/choose_auth_method.png)
 
 2. select the EGI-Checkin IdP
 
-![EGI AAI IdP](https://github.com/ReCaS-Bari/ReCaS-Bari.github.io/blob/master/images/select_idp.png)
+![EGI AAI IdP](/images/select_idp.png)
 
 You will be redirected to your organization project.
 
