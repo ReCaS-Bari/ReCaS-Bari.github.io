@@ -6,7 +6,7 @@ ReCaS-Bari cloud site is fully integrated in the EGI Federated Cloud.
 The user access is regulated by SLAs/OLAs.
 If your virtual organization has a valid SLA with our site, you will be able to login at
 
-http://cloud.recas.ba.infn.it
+[http://cloud.recas.ba.infn.it](http://cloud.recas.ba.infn.it)
 
 1. choose the OpenID Connect authentication method 
 
